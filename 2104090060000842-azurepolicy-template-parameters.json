@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "policyAssignmentName": {
-      "value": "[guid(parameters('policyDefinitionID'), resourceGroup().name)]"
+      "value": "マネージド ディスクを使用していない VM の監査"
     },
     "policyDefinitionID": {
-      "value": null
+      "value": "/providers/Microsoft.Authorization/policyDefinitions/0a914e76-4921-4c19-b460-a2d36003525a"
     }
   }
 }
