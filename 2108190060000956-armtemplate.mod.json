@@ -36,8 +36,7 @@
       "metadata": {
         "description": "Name of the blob container in the Azure Storage account."
       }
-    }
-	,
+    },
     "dataFactoryLinkedServiceName-param": {
       "type": "string",
       "defaultValue": "ArmtemplateStorageLinkedService",
