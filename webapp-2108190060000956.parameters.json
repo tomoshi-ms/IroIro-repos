@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_2108190060000956_webapp1_name": {
+            "value": null
+        },
+        "serverfarms_myWindows_S1_AppServicePlan_externalid": {
+            "value": null
+        }
+    }
+}
