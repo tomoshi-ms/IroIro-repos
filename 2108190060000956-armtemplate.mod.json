@@ -10,7 +10,6 @@
   },
   "functions": [],
   "variables": {
-    "dataFactoryLinkedServiceName-val": "ArmtemplateStorageLinkedService",
     "dataFactoryDataSetInName": "ArmtemplateTestDatasetIn",
     "dataFactoryDataSetOutName": "ArmtemplateTestDatasetOut",
     "pipelineName": "ArmtemplateSampleCopyPipeline"
