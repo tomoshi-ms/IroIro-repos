@@ -4,6 +4,7 @@
   "parameters": {
     "rgName": {
       "type": "string",
+      "defaultValue": "2109070060002391-rsg",
       "metadata": {
         "description": "Name of the resourceGroup to create"
       }
